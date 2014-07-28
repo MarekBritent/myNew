@@ -1,3 +1,4 @@
+wynik
 sdf
 sd
 f
