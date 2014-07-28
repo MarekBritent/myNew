@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-
+Druga zmiania  333332
 
 11111
 Copyright (c) 2014 MarekBritent
@@ -25,3 +25,5 @@ SOFTWARE.
 
 
 test
+
+Druga zmiania  5552
